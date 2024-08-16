@@ -1,2 +1,2 @@
 # Welcome to Mavira!
-Check back soon for updates!
+This is a special repository that contains the README for the organization in the profile/README.md
