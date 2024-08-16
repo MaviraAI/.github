@@ -1,2 +1,2 @@
-# .github
-Public README for organization
+# Welcome to Mavira!
+Check back soon for updates!
